@@ -1,2 +1,2 @@
 # teastation
-<p> Hi, please review my first tea station project made using only html and css, this website was made only using floats</p>
+<p> A project made using plain html , css and little bit of java script, this project showcases a small website with responsive design.</p>
